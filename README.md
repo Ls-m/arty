@@ -1,4 +1,59 @@
-# Getting Started with Create React App
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+
+
+
+
+
+<h1 align="center">react website</h1>
+<h2 align="center">Winter 1400</h2>
+
+
+Table Of content
+- [Project Descicption](#project-descicption)
+- [How to Run](#how-to-run)
+- [Contact](#contact)
+- [Project Link](#project-link)
+
+
+### Project Descicption
+
+react website with hooks and router
+
+
+### How to Run
+
+In the project directory, you can run:
+
+```bash
+npm start
+```
+Runs the app in the development mode.
+Open http://localhost:3000 to view it in your browser
+
+### Contact
+
+- This is my [email](mailto:elham.fr80@gmail.com) 
+
+### Project Link
+
+- [arty](https://github.com/Ls-m/arty)
+
+[forks-shield]: https://img.shields.io/github/forks/Ls-m/arty
+[forks-url]: https://github.com/Ls-m/arty/network/members
+[stars-shield]: https://img.shields.io/github/stars/Ls-m/arty
+[stars-url]: https://github.com/Ls-m/arty/stargazers
+[issues-shield]: https://img.shields.io/github/issues/Ls-m/arty
+[issues-url]: https://github.com/Ls-m/arty/issues
+
+
+
+
+
+
+
+<!-- # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -67,4 +122,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 ### `npm run build` fails to minify
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify) -->
