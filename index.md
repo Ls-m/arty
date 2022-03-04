@@ -1,4 +1,9 @@
-## Welcome to GitHub Pages
+![Elham's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ls-m&theme=dracula&show_icons=true&line_height=30)
+    <br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ls-m&theme=dracula&layout=compact&line_height=30)
+
+
+<!-- ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/Ls-m/arty/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -35,3 +40,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+ -->
